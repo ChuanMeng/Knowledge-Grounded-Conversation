@@ -5,7 +5,9 @@
 * A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
 * A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
-* Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation". AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
+* Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
+* Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering. AAAI(2020) [[PDF]](https://arxiv.org/abs/1912.07491) 
+* Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020) [[PDF]]() 
 
 
 ### 2019

@@ -16,7 +16,7 @@
 
 
 ### 2018
-* A Knowledge-Grounded Neural Conversation Model. AAAI(2018)  [[PDF]]
+* A Knowledge-Grounded Neural Conversation Model. AAAI(2018)  [[PDF]](https://arxiv.org/abs/1702.01932v2)
 * Knowledge Diffusion for Neural Dialogue Generation. ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1138) [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
 * Commonsense Knowledge Aware Conversation Generation with Graph Attention. IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0643.pdf) [[code]](https://github.com/tuxchow/ccm) 
 * Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NeurIPS(2018) [[PDF]](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]](https://github.com/guoday/Dialog-to-Action)

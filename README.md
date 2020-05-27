@@ -2,7 +2,8 @@
 ### Paper-Reading
 
 ### Knowledge-driven Conversation
-* A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
+* Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
+* A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * Proactive Human-Machine Conversation with Explicit Conversation Goals. ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1369) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2019-DuConv) 
 

@@ -1,5 +1,4 @@
-# Knowldege Grounded Conversation
-### Paper-Reading
+# Knowldege Grounded Conversation (KGC) Paper Reading
 
 ### Knowledge-driven Conversation
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 

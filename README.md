@@ -13,7 +13,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
 * Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
-* Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/pdf/1908.09528.pdf). In *Proceedings of AAAI 2020*[[code]](https://github.com/PengjieRen/GLKS) 
+* Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/pdf/1908.09528.pdf). In *Proceedings of AAAI 2020*. [[code]](https://github.com/PengjieRen/GLKS) 
 * Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering. AAAI(2020) [[PDF]](https://arxiv.org/abs/1912.07491) 
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020)
 * Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation. AAAI(2020) [[PDF]](https://arxiv.org/abs/2002.01196) 

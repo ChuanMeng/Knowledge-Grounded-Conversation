@@ -8,14 +8,14 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 ### 2020
 * Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation. SIGIR(2020)  
 
-* Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. 2020. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
+* Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, and Maarten de Rijke. 2020. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
 
-* Houyu Zhang, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. ACL(2020) [[PDF]]() 
+* Houyu Zhang, Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. ACL(2020) [[PDF]]() 
 * Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau, Jason Weston. The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents. ACL(2020) [[PDF]]() 
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
-* A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
+* Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
 * Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
 * Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering. AAAI(2020) [[PDF]](https://arxiv.org/abs/1912.07491) 
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020)

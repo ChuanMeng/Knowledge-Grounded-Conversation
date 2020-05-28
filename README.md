@@ -1,15 +1,18 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
 
+### Survey
+* A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
+
 ### 2020
 * DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation. SIGIR(2020)  
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
-* A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
 * A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
 * Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
 * Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering. AAAI(2020) [[PDF]](https://arxiv.org/abs/1912.07491) 
-* Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020) [[PDF]]() 
+* Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020)
+* Jinghui Qin, Zheng Ye, Jianheng Tang, Xiaodan Liang. Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation. AAAI(2020) [[PDF]](https://arxiv.org/abs/2002.01196) 
 * Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue. ICLR(2020) [[PDF]](https://arxiv.org/abs/2002.07510?context=cs.CL) [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
 
 ### 2019

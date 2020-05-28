@@ -36,7 +36,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 
 ### 2018
-* [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932v2). Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih and Michel Galley. **AAAI 2018***.  
+* [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932v2). Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih and Michel Galley. ***AAAI 2018***.  
 * [Knowledge Diffusion for Neural Dialogue Generation](https://www.aclweb.org/anthology/P18-1138). Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu and Dawei Yin. ***ACL 2018***.  [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
 * [Towards Exploiting Background Knowledge for Building Conversation Systems](https://arxiv.org/abs/1809.08205). Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra. ***EMNLP 2018***.
 * [A Dataset for Document Grounded Conversations](https://www.aclweb.org/anthology/D18-1076/). Kangyan Zhou, Shrimai Prabhumoye and Alan W Black. ***EMNLP 2018***.

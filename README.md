@@ -10,7 +10,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 * Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, and Maarten de Rijke. 2020. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
 
-* Houyu Zhang, Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu. Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs. ACL(2020) [[PDF]]() 
+* Houyu Zhang, Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu. [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](). In *Proceedings of ACL 2020*.
 * Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau, Jason Weston. The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents. ACL(2020) [[PDF]]() 
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 

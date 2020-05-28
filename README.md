@@ -17,13 +17,21 @@
 * Learning to Select Knowledge for Response Generation in Dialog Systems. IJCAI(2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0706.pdf) 
 * Wizard of Wikipedia: Knowledge-Powered Conversational agents. ICLR(2019) [[PDF]](https://arxiv.org/pdf/1811.01241.pdf)
 * Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL(2019) [[PDF]](https://www.aclweb.org/anthology/N19-1124) [[code]](https://github.com/jcyk/Skeleton-to-Response) 
-
+* Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading. ACL(2019)
+* Incremental Transformer with Deliberation Decoderfor Document Grounded Conversations. ACL(2019)
+* DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs. EMNLP(2019)
+* Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs. EMNLP(2019)
+* Improving Background Based Conversation with Context-aware Knowledge Pre-selection. ACL(2019)
 
 ### 2018
 * A Knowledge-Grounded Neural Conversation Model. AAAI(2018)  [[PDF]](https://arxiv.org/abs/1702.01932v2)
 * Knowledge Diffusion for Neural Dialogue Generation. ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1138) [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
 * Commonsense Knowledge Aware Conversation Generation with Graph Attention. IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0643.pdf) [[code]](https://github.com/tuxchow/ccm) 
 * Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NeurIPS(2018) [[PDF]](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]](https://github.com/guoday/Dialog-to-Action)
+* Knowledge diffusion for neural dialogue generation. ACL(2018)
+* Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP(2018)
+* A Dataset for Document Grounded Conversations. EMNLP(2018)
+* Extending neural generative conversational model using external knowledge sources. EMNLP(2018)
 
 ### before 2018
 * Flexible End-to-End Dialogue System for Knowledge Grounded Conversation. arXiv(2017) [[PDF]](https://arxiv.org/pdf/1709.04264.pdf) 

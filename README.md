@@ -3,7 +3,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 
 ### Survey
-* [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. *ArXiv 2020*.
+* [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
  
 ### 2020
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
@@ -31,9 +31,10 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/abs/1903.10245). Zhibin Liu, Zheng-Yu Niu, Hua Wu and Haifeng Wang. ***EMNLP 2019***.
 * [On Knowledge distillation from complex networks for response prediction](https://www.aclweb.org/anthology/N19-1382/). Siddhartha Arora, Mitesh M. Khapra and Harish G. Ramaswamy. ***NAACL 2019***.
 * [Improving Background Based Conversation with Context-aware Knowledge Pre-selection](https://arxiv.org/abs/1906.06685). Yangjun Zhang, Pengjie Ren and Maarten de Rijke. ***SCAI 2019***.
-* [Memory Grounded Conversational Reasoning.](https://www.aclweb.org/anthology/D19-3025/).Seungwhan Moon, Pararth Shah, Rajen Subba and Anuj Kumar. ***EMNLP 2019***.
+* [Memory Grounded Conversational Reasoning](https://www.aclweb.org/anthology/D19-3025/).Seungwhan Moon, Pararth Shah, Rajen Subba and Anuj Kumar. ***EMNLP 2019***.
 * [A Document-grounded Matching Network for Response Selection inRetrieval-based Chatbots](https://arxiv.org/abs/1906.04362). Xueliang Zhao, Chongyang Tao, Wei Wu, Can Xu, Dongyan Zhao and Rui Yan. ***IJCAI 2019***.
-
+* [Opendialkg: Explainable conversational reasoning with attention-based walks over knowledge graphs](https://www.aclweb.org/anthology/P19-1081/). Seungwhan Moon, Pararth Shah, Anuj Kumar and Rajen Subba. ***ACL 2019***.
+* [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf). Karthik Gopalakrishnan, Behnam Hedayatnia, Qinlang Chen, Anna Gottardi, Sanjeev Kwatra, Anu Venkatesh, Raefer Gabriel and Dilek Hakkani-Tür. ***Interspeech 2019***.
 
 ### 2018
 * [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932v2). Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih and Michel Galley. ***AAAI 2018***.  

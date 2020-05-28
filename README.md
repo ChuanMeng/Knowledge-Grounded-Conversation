@@ -31,14 +31,14 @@
 ### 2018
 * A Knowledge-Grounded Neural Conversation Model. AAAI(2018)  [[PDF]](https://arxiv.org/abs/1702.01932v2)
 * Knowledge Diffusion for Neural Dialogue Generation. ACL(2018) [[PDF]](https://www.aclweb.org/anthology/P18-1138) [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
-* Commonsense Knowledge Aware Conversation Generation with Graph Attention. IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0643.pdf) [[code]](https://github.com/tuxchow/ccm) 
-* Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NeurIPS(2018) [[PDF]](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]](https://github.com/guoday/Dialog-to-Action)
 * Knowledge diffusion for neural dialogue generation. ACL(2018)
 * Towards Exploiting Background Knowledge for Building Conversation Systems. EMNLP(2018)
 * A Dataset for Document Grounded Conversations. EMNLP(2018)
 * Extending neural generative conversational model using external knowledge sources. EMNLP(2018)
+* Commonsense Knowledge Aware Conversation Generation with Graph Attention. IJCAI(2018) [[PDF]](https://www.ijcai.org/proceedings/2018/0643.pdf) [[code]](https://github.com/tuxchow/ccm) 
+* Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base". NeurIPS(2018) [[PDF]](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf) [[code]](https://github.com/guoday/Dialog-to-Action)
 
-### before 2018
+### Before 2018
 * Flexible End-to-End Dialogue System for Knowledge Grounded Conversation. arXiv(2017) [[PDF]](https://arxiv.org/pdf/1709.04264.pdf) 
 
 ### Knowledge-Based Recommender Dialog

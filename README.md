@@ -3,15 +3,12 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 
 ### Survey
-* A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
+* Longxuan Ma, Wei-Nan Zhang, Mingda Li, Ting Liu. [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). *arXiv*.
 
 ### 2020
-* Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke. DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation. SIGIR(2020)  
-
 * Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, and Maarten de Rijke. 2020. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
-
 * Houyu Zhang, Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu. [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](). In *Proceedings of ACL 2020*.
-* Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau, Jason Weston. The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents. ACL(2020) [[PDF]]() 
+* Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau, and Jason Weston. [The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents](). In *Proceedings of ACL 2020*.
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 

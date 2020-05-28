@@ -12,7 +12,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ***ACL(2020)*** 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ***ACL(2020)*** (https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://arxiv.org/abs/2005.06128). ***ACL(2020)***  
-* [A Reference-aware Network for Background Based Conversation](https://arxiv.org/pdf/1908.06449.pdf). *Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke*. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
+* [A Reference-aware Network for Background Based Conversation](https://arxiv.org/pdf/1908.06449.pdf). Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
 * [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/pdf/1908.09528.pdf). Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/PengjieRen/GLKS) 
 * [Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/abs/1912.07491). ***AAAI(2020)*** 
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. ***AAAI(2020)***

@@ -3,7 +3,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 
 ### Survey
-* *[A Survey of Document Grounded Dialogue Systems (DGDS)]*(https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu*. *ArXiv 2020*.
+* [*A Survey of Document Grounded Dialogue Systems (DGDS)*](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu*. *ArXiv 2020*.
 
 ### 2020
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)

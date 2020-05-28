@@ -3,17 +3,17 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 
 ### Survey
-* Longxuan Ma, Wei-Nan Zhang, Mingda Li, Ting Liu. [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). *arXiv*.
+* Longxuan Ma, Wei-Nan Zhang, Mingda Li, Ting Liu. [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). *arXiv 2004.13818*.
 
 ### 2020
-* Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, and Maarten de Rijke. 2020. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
+* Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, and Maarten de Rijke. [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](). In *Proceedings of SIGIR 2020*. 
 * Houyu Zhang, Zhenghao Liu, Chenyan Xiong, and Zhiyuan Liu. [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](). In *Proceedings of ACL 2020*.
 * Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau, and Jason Weston. [The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents](). In *Proceedings of ACL 2020*.
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation. ACL(2020) [[PDF]](https://arxiv.org/abs/2005.06128) 
 * Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. A Reference-aware Network for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.06449.pdf) [[code]](https://github.com/ChuanMeng/RefNet)
-* Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation. AAAI(2020) [[PDF]](https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
+* Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/pdf/1908.09528.pdf). AAAI(2020) (https://arxiv.org/pdf/1908.09528.pdf) [[code]](https://github.com/PengjieRen/GLKS) 
 * Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering. AAAI(2020) [[PDF]](https://arxiv.org/abs/1912.07491) 
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020)
 * Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation. AAAI(2020) [[PDF]](https://arxiv.org/abs/2002.01196) 

@@ -29,6 +29,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs. EMNLP(2019)
 * On Knowledge distillation from complex networks for response prediction. NAACL(2019)
 * Improving Background Based Conversation with Context-aware Knowledge Pre-selection. SCAI(2019)
+* Memory Grounded Conversational Reasoning. EMNLP(2019)
 
 
 ### 2018

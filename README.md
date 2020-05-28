@@ -18,7 +18,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. AAAI(2020)
 * Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation. AAAI(2020) [[PDF]](https://arxiv.org/abs/2002.01196) 
 * Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue. ICLR(2020) [[PDF]](https://arxiv.org/abs/2002.07510?context=cs.CL) [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
-* Towards information-rich, logical text generation with knowledge-enhanced neural models. (2020) [[PDF]](https://arxiv.org/abs/2003.00814) 
+* Towards information-rich, logical text generation with knowledge-enhanced neural models. arXiv(2020) [[PDF]](https://arxiv.org/abs/2003.00814) 
 
 ### 2019
 * Proactive Human-Machine Conversation with Explicit Conversation Goals. ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1369) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2019-DuConv) 

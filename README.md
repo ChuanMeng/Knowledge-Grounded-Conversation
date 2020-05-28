@@ -37,12 +37,13 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 
 ### 2018
 * [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932v2). AAAI(2018)  
-* [Knowledge Diffusion for Neural Dialogue Generation](https://www.aclweb.org/anthology/P18-1138). ***ACL(2018)***  [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
-* Towards Exploiting Background Knowledge for Building Conversation Systems. ***EMNLP(2018)***
-* A Dataset for Document Grounded Conversations. ***EMNLP(2018)***
-* Extending neural generative conversational model using external knowledge sources. ***EMNLP(2018)***
+* [Knowledge Diffusion for Neural Dialogue Generation](https://www.aclweb.org/anthology/P18-1138). ***ACL(2018)***.  [[data]](https://github.com/liushuman/neural-knowledge-diffusion)
+* Towards Exploiting Background Knowledge for Building Conversation Systems. ***EMNLP(2018)***.
+* A Dataset for Document Grounded Conversations. ***EMNLP(2018)***.
+* Extending neural generative conversational model using external knowledge sources. ***EMNLP(2018)***.
 * [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). ***IJCAI(2018)***  [[code]](https://github.com/tuxchow/ccm) 
-* [Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf). ***NeurIPS(2018)*** [[code]](https://github.com/guoday/Dialog-to-Action)
+* [Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf). ***NeurIPS(2018)***. [[code]](https://github.com/guoday/Dialog-to-Action)
+* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](http://coai.cs.tsinghua.edu.cn/hml/media/files/aaai2018-dialogue-commonsense.pdf). Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas and Minlie Huang. ***AAAA 2018***.
 
 ### Before 2018
 * [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) . ***arXiv(2017)*** 

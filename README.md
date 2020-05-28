@@ -29,3 +29,4 @@
 
 ### Knowledge-Based Recommender Dialog
 * Towards Knowledge-Based Recommender Dialog System. EMNLP(2019) [[PDF]](https://www.aclweb.org/anthology/D19-1189.pdf) [[code]](https://github.com/THUDM/KBRD) 
+* Towards Conversational Recommendation over Multi-Type Dialogs. ACL(2020) [[PDF]](https://arxiv.org/pdf/2005.03954.pdf) [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)

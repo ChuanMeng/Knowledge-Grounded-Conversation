@@ -1,6 +1,7 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
 
 ### 2020
+* DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation. SIGIR(2020)  
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ACL(2020) [[PDF]]() 
 * A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation. ACL(2020) [[PDF]](https://arxiv.org/pdf/2004.04100.pdf) [[data]](https://github.com/thu-coai/KdConv) 
 * A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)

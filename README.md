@@ -1,4 +1,5 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
+A Knowldege Grounded Conversation (KGC) Ppaper reading list maintained by KGC group in Information retrieval laboratory of shandong university.
 
 ### Survey
 * A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)
@@ -26,7 +27,9 @@
 * Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory. NAACL(2019) [[PDF]](https://www.aclweb.org/anthology/N19-1124) [[code]](https://github.com/jcyk/Skeleton-to-Response) 
 * DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs. EMNLP(2019)
 * Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs. EMNLP(2019)
+* On Knowledge distillation from complex networks for response prediction. NAACL(2019)
 * Improving Background Based Conversation with Context-aware Knowledge Pre-selection. SCAI(2019)
+
 
 ### 2018
 * A Knowledge-Grounded Neural Conversation Model. AAAI(2018)  [[PDF]](https://arxiv.org/abs/1702.01932v2)

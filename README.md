@@ -18,7 +18,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. ***AAAI(2020)***
 * [Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation](https://arxiv.org/abs/2002.01196). ***AAAI(2020)*** 
 * [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). ***ICLR(2020)*** [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
-* [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814).***arXiv(2020)*** 
+* [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814).***ArXiv(2020)*** 
 
 ### 2019
 * [Proactive Human-Machine Conversation with Explicit Conversation Goals](https://www.aclweb.org/anthology/P19-1369). ACL(2019)  [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2019-DuConv) 
@@ -43,7 +43,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * Extending neural generative conversational model using external knowledge sources. ***EMNLP(2018)***.
 * [Commonsense Knowledge Aware Conversation Generation with Graph Attention](https://www.ijcai.org/proceedings/2018/0643.pdf). ***IJCAI(2018)***  [[code]](https://github.com/tuxchow/ccm) 
 * [Dialog-to-Action: Conversational Question Answering Over a Large-Scale Knowledge Base](http://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf). ***NeurIPS(2018)***. [[code]](https://github.com/guoday/Dialog-to-Action)
-* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](http://coai.cs.tsinghua.edu.cn/hml/media/files/aaai2018-dialogue-commonsense.pdf). Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas and Minlie Huang. ***AAAA 2018***.
+* [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](http://coai.cs.tsinghua.edu.cn/hml/media/files/aaai2018-dialogue-commonsense.pdf). Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas and Minlie Huang. ***AAA 2018***.
 
 ### Before 2018
 * [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) . ***arXiv(2017)*** 

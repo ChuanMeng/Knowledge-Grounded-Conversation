@@ -48,7 +48,10 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 ### Before 2018
 * [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/pdf/1709.04264.pdf) . ***arXiv(2017)*** 
 * [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). ***ACL(2017)***  
+* [Incorporating loose-structured knowledge into conversation modeling via recall-gate LSTM](https://arxiv.org/abs/1605.05110). Zhen Xu, Bingquan Liu, Baoxun Wang, Chengjie Sun and Xiaolong Wang. ***IJCNN 2017***. 
 * [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393). ***ACL(2016)*** 
+* [A neural network approach for knowledge-driven response generation](https://www.aclweb.org/anthology/C16-1318/). Pavlos Vougiouklis, Jonathon Hare and Elena Simperl. ***COLING 2016***. 
+* [Exploiting knowledge base to generate responses for natural language dialog listening agents](https://www.aclweb.org/anthology/W15-4616/). Sangdo Han, Jeesoo Bang, Seonghan Ryu and Gary Geunbae Lee. ***SIGDIAL 2015***. 
 
 ### Knowledge-Based Recommender Dialog
 * [Towards Knowledge-Based Recommender Dialog System](https://www.aclweb.org/anthology/D19-1189.pdf). ***EMNLP(2019)*** [[code]](https://github.com/THUDM/KBRD) 

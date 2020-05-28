@@ -1,5 +1,5 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
-A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC group in Information retrieval laboratory of Shandong University**.
+A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC group in Information retrieval laboratory of Shandong University**. We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### Survey
 * A Survey of Document Grounded Dialogue Systems (DGDS). TOIS(2020 under review) [[PDF]](https://arxiv.org/abs/2004.13818?context=stat)

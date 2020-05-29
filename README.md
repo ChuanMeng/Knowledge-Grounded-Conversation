@@ -29,7 +29,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Learning to Select Knowledge for Response Generation in Dialog Systems](https://arxiv.org/abs/1902.04911). Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng and Hua Wu. ***IJCAI 2019***. 
 * [DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://arxiv.org/abs/1910.00610). Yi-Lin Tuan, Yun-Nung Chen and Hung-yi Lee. ***EMNLP 2019***.
 * [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/abs/1903.10245). Zhibin Liu, Zheng-Yu Niu, Hua Wu and Haifeng Wang. ***EMNLP 2019***.
-* [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://www.aclweb.org/anthology/N19-1124).Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam and Shuming Shi. ***NAACL 2019***.  [[code]](https://github.com/jcyk/Skeleton-to-Response)
+* [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://www.aclweb.org/anthology/N19-1124). Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam and Shuming Shi. ***NAACL 2019***.  [[code]](https://github.com/jcyk/Skeleton-to-Response)
 * [On Knowledge distillation from complex networks for response prediction](https://www.aclweb.org/anthology/N19-1382/). Siddhartha Arora, Mitesh M. Khapra and Harish G. Ramaswamy. ***NAACL 2019***.
 * [Memory Grounded Conversational Reasoning](https://www.aclweb.org/anthology/D19-3025/). Seungwhan Moon, Pararth Shah, Rajen Subba and Anuj Kumar. ***EMNLP 2019***.
 * [A Document-grounded Matching Network for Response Selection inRetrieval-based Chatbots](https://arxiv.org/abs/1906.04362). Xueliang Zhao, Chongyang Tao, Wei Wu, Can Xu, Dongyan Zhao and Rui Yan. ***IJCAI 2019***.

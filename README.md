@@ -47,7 +47,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](http://coai.cs.tsinghua.edu.cn/hml/media/files/aaai2018-dialogue-commonsense.pdf). Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas and Minlie Huang. ***AAAI 2018***.
 
 ### Before 2018
-* [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/abs/1709.04264). Wenya Zhu, Kaixiang Mo, Yu Zhang, Zhangbin Zhu, Xuezheng Peng and Qiang Yang. ***arXiv 2017***.
+* [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/abs/1709.04264). Wenya Zhu, Kaixiang Mo, Yu Zhang, Zhangbin Zhu, Xuezheng Peng and Qiang Yang. ***ArXiv 2017***.
 * [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***.  
 * [Incorporating loose-structured knowledge into conversation modeling via recall-gate LSTM](https://arxiv.org/abs/1605.05110). Zhen Xu, Bingquan Liu, Baoxun Wang, Chengjie Sun and Xiaolong Wang. ***IJCNN 2017***. 
 * [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393). Jiatao Gu, Zhengdong Lu, Hang Li and Victor O.K. Li. ***ACL 2016***. 

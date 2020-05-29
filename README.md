@@ -21,19 +21,19 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020*** 
 
 ### 2019
+* [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241). Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli and Jason Weston. ***ICLR 2019***. 
 * [Proactive Human-Machine Conversation with Explicit Conversation Goals](https://www.aclweb.org/anthology/P19-1369). Wenquan Wu, Zhen Guo, Xiangyang Zhou, Hua Wu, Xiyuan Zhang, Rongzhong Lian and Haifeng Wang. ***ACL 2019***.  [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2019-DuConv) 
 * [Conversing by Reading: Contentful Neural Conversation with On-demand Machine Reading](https://arxiv.org/abs/1906.02738?context=cs.CL). Lianhui Qin, Michel Galley, Chris Brockett, Xiaodong Liu, Xiang Gao, Bill Dolan, Yejin Choi and Jianfeng Gao. ***ACL 2019***.
 * [Incremental Transformer with Deliberation Decoderfor Document Grounded Conversations](https://arxiv.org/abs/1907.08854). Zekang Li, Cheng Niu, Fandong Meng, Yang Feng, Qian Li and Jie Zhou. ***ACL 2019***.
+* [Opendialkg: Explainable conversational reasoning with attention-based walks over knowledge graphs](https://www.aclweb.org/anthology/P19-1081/). Seungwhan Moon, Pararth Shah, Anuj Kumar and Rajen Subba. ***ACL 2019***.
 * [Learning to Select Knowledge for Response Generation in Dialog Systems](https://arxiv.org/abs/1902.04911). Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng and Hua Wu. ***IJCAI 2019***. 
-* [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241). Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli and Jason Weston. ***ICLR 2019***. 
-* [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://www.aclweb.org/anthology/N19-1124).Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam and Shuming Shi. ***NAACL 2019***.  [[code]](https://github.com/jcyk/Skeleton-to-Response) 
 * [DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs](https://arxiv.org/abs/1910.00610). Yi-Lin Tuan, Yun-Nung Chen and Hung-yi Lee. ***EMNLP 2019***.
 * [Knowledge Aware Conversation Generation with Explainable Reasoning over Augmented Graphs](https://arxiv.org/abs/1903.10245). Zhibin Liu, Zheng-Yu Niu, Hua Wu and Haifeng Wang. ***EMNLP 2019***.
+* [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://www.aclweb.org/anthology/N19-1124).Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Wai Lam and Shuming Shi. ***NAACL 2019***.  [[code]](https://github.com/jcyk/Skeleton-to-Response)
 * [On Knowledge distillation from complex networks for response prediction](https://www.aclweb.org/anthology/N19-1382/). Siddhartha Arora, Mitesh M. Khapra and Harish G. Ramaswamy. ***NAACL 2019***.
-* [Improving Background Based Conversation with Context-aware Knowledge Pre-selection](https://arxiv.org/abs/1906.06685). Yangjun Zhang, Pengjie Ren and Maarten de Rijke. ***SCAI 2019***.
 * [Memory Grounded Conversational Reasoning](https://www.aclweb.org/anthology/D19-3025/).Seungwhan Moon, Pararth Shah, Rajen Subba and Anuj Kumar. ***EMNLP 2019***.
 * [A Document-grounded Matching Network for Response Selection inRetrieval-based Chatbots](https://arxiv.org/abs/1906.04362). Xueliang Zhao, Chongyang Tao, Wei Wu, Can Xu, Dongyan Zhao and Rui Yan. ***IJCAI 2019***.
-* [Opendialkg: Explainable conversational reasoning with attention-based walks over knowledge graphs](https://www.aclweb.org/anthology/P19-1081/). Seungwhan Moon, Pararth Shah, Anuj Kumar and Rajen Subba. ***ACL 2019***.
+* [Improving Background Based Conversation with Context-aware Knowledge Pre-selection](https://arxiv.org/abs/1906.06685). Yangjun Zhang, Pengjie Ren and Maarten de Rijke. ***SCAI 2019***.
 * [Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3079.pdf). Karthik Gopalakrishnan, Behnam Hedayatnia, Qinlang Chen, Anna Gottardi, Sanjeev Kwatra, Anu Venkatesh, Raefer Gabriel and Dilek Hakkani-Tür. ***Interspeech 2019***.
 
 ### 2018

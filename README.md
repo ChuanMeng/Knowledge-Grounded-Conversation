@@ -59,6 +59,11 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/abs/1908.05391). Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang and Jie Tang. ***EMNLP 2019***. [[code]](https://github.com/THUDM/KBRD) 
 * [Towards Conversational Recommendation over Multi-Type Dialogs](https://arxiv.org/abs/2005.03954). Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu. ***ACL 2020***. [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)
 
+### Task-Oriented Conversation
+* [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). Antoine Bordes, Y-Lan Boureau and Jason Weston. ***ICLR 2017***. 
+* [Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](https://www.aclweb.org/anthology/P18-1133/). Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. ***ACL 2018***. 
+* [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278). Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan and Milica Gašić. ***EMNLP 2018***. 
+
 ### Basic papers
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
 * [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.

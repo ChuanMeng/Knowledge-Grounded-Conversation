@@ -55,6 +55,7 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 * [Exploiting knowledge base to generate responses for natural language dialog listening agents](https://www.aclweb.org/anthology/W15-4616/). Sangdo Han, Jeesoo Bang, Seonghan Ryu and Gary Geunbae Lee. ***SIGDIAL 2015***. 
 
 ### Knowledge-Based Recommender Dialog
+* [Towards Deep Conversational Recommendations](https://arxiv.org/abs/1812.07617v2). Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin and Chris Pal. ***NeurIPS 2018***. 
 * [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/abs/1908.05391). Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang and Jie Tang. ***EMNLP 2019***. [[code]](https://github.com/THUDM/KBRD) 
 * [Towards Conversational Recommendation over Multi-Type Dialogs](https://arxiv.org/abs/2005.03954). Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu. ***ACL 2020***. [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)
 

@@ -57,3 +57,8 @@ A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC g
 ### Knowledge-Based Recommender Dialog
 * [Towards Knowledge-Based Recommender Dialog System](https://arxiv.org/abs/1908.05391). Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang and Jie Tang. ***EMNLP 2019***. [[code]](https://github.com/THUDM/KBRD) 
 * [Towards Conversational Recommendation over Multi-Type Dialogs](https://arxiv.org/abs/2005.03954). Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu. ***ACL 2020***. [[code]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2020-DuRecDial)
+
+### Basic papers
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio. ***ICLR 2015***.

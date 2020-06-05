@@ -1,5 +1,5 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
-A Knowldege Grounded Conversation (KGC) paper reading list maintained by **KGC group in Information retrieval laboratory of Shandong University**. We will keep adding papers and improving the list. Any suggestions are welcome!
+We will keep adding papers and improving the list. Any suggestions are welcome!
 
 
 ### Survey

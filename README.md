@@ -6,7 +6,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
  
 ### 2020
-* [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/meng-2020-refnet.pdf). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
+* [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/meng-2020-dukenet.pdf). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 * [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://arxiv.org/abs/1911.02707). Houyu Zhang, Zhenghao Liu, Chenyan Xiong and Zhiyuan Liu. ***ACL 2020***.
 * [The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768). Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau and Jason Weston. ***ACL 2020***.
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ***ACL 2020***. 

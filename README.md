@@ -7,6 +7,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
  
 ### 2020
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/meng-2020-dukenet.pdf). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
+* [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang and Ruifang Wang. ***WWW 2020***.
 * [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://arxiv.org/abs/1911.02707). Houyu Zhang, Zhenghao Liu, Chenyan Xiong and Zhiyuan Liu. ***ACL 2020***.
 * [The Dialogue Dodecathlon Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768). Kurt Shuster, Da Ju, Stephen Roller, Emily Dinan, Y-Lan Boureau and Jason Weston. ***ACL 2020***.
 * Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation. ***ACL 2020***. 
@@ -18,8 +19,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. ***AAAI 2020***.
 * [Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation](https://arxiv.org/abs/2002.01196). Jinghui Qin, Zheng Ye, Jianheng Tang and Xiaodan Liang.  ***AAAI 2020***. 
 * [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). Byeongchang Kim, Jaewoo Ahn and Gunhee Kim. ***ICLR 2020***.  [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
-* [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020*** 
-* [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang, Ruifang Wang. ***WWW 2020*** 
+* [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020***.
+
 
 ### 2019
 * [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241). Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli and Jason Weston. ***ICLR 2019***. 

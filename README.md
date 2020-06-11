@@ -19,6 +19,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation](https://arxiv.org/abs/2002.01196). Jinghui Qin, Zheng Ye, Jianheng Tang and Xiaodan Liang.  ***AAAI 2020***. 
 * [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). Byeongchang Kim, Jaewoo Ahn and Gunhee Kim. ***ICLR 2020***.  [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
 * [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020*** 
+* [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang, Ruifang Wang. ***WWW 2020*** 
 
 ### 2019
 * [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241). Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli and Jason Weston. ***ICLR 2019***. 

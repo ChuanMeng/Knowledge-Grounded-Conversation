@@ -49,12 +49,21 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Augmenting End-to-End Dialog Systems with Commonsense Knowledge](http://coai.cs.tsinghua.edu.cn/hml/media/files/aaai2018-dialogue-commonsense.pdf). Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas and Minlie Huang. ***AAAI 2018***.
 
 ### Before 2018
-* [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/abs/1709.04264). Wenya Zhu, Kaixiang Mo, Yu Zhang, Zhangbin Zhu, Xuezheng Peng and Qiang Yang. ***ArXiv 2017***.
-* [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***.  
+* [Flexible End-to-End Dialogue System for Knowledge Grounded Conversation](https://arxiv.org/abs/1709.04264). Wenya Zhu, Kaixiang Mo, Yu Zhang, Zhangbin Zhu, Xuezheng Peng and Qiang Yang. ***ArXiv 2017***. 
 * [Incorporating loose-structured knowledge into conversation modeling via recall-gate LSTM](https://arxiv.org/abs/1605.05110). Zhen Xu, Bingquan Liu, Baoxun Wang, Chengjie Sun and Xiaolong Wang. ***IJCNN 2017***. 
-* [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393). Jiatao Gu, Zhengdong Lu, Hang Li and Victor O.K. Li. ***ACL 2016***. 
 * [A neural network approach for knowledge-driven response generation](https://www.aclweb.org/anthology/C16-1318/). Pavlos Vougiouklis, Jonathon Hare and Elena Simperl. ***COLING 2016***. 
 * [Exploiting knowledge base to generate responses for natural language dialog listening agents](https://www.aclweb.org/anthology/W15-4616/). Sangdo Han, Jeesoo Bang, Seonghan Ryu and Gary Geunbae Lee. ***SIGDIAL 2015***. 
+
+
+### Basic papers
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio. ***ICLR 2015***.
+* [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393). Jiatao Gu, Zhengdong Lu, Hang Li and Victor O.K. Li. ***ACL 2016***. 
+* [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***. 
+
+# Other related papers
+## Other related papers
 
 ### Knowledge-Based Recommender Dialog
 * [Towards Deep Conversational Recommendations](https://arxiv.org/abs/1812.07617v2). Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin and Chris Pal. ***NeurIPS 2018***. 
@@ -65,8 +74,3 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). Antoine Bordes, Y-Lan Boureau and Jason Weston. ***ICLR 2017***. 
 * [Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](https://www.aclweb.org/anthology/P18-1133/). Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. ***ACL 2018***. 
 * [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278). Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan and Milica Gašić. ***EMNLP 2018***. 
-
-### Basic papers
-* [Attention Is All You Need](https://arxiv.org/abs/1706.03762). Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. ***NeurIPS 2017***.
-* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215). Ilya Sutskever, Oriol Vinyals and Quoc V. Le. ***NeurIPS 2014***.
-* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473). Dzmitry Bahdanau, Kyunghyun Cho and Yoshua Bengio. ***ICLR 2015***.

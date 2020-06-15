@@ -62,7 +62,6 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/abs/1603.06393). Jiatao Gu, Zhengdong Lu, Hang Li and Victor O.K. Li. ***ACL 2016***. 
 * [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368). Abigail See, Peter J. Liu and Christopher D. Manning. ***ACL 2017***. 
 
-# Other related papers
 ## Other related papers
 
 ### Knowledge-Based Recommender Dialog
@@ -73,4 +72,11 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 ### Task-Oriented Conversation
 * [Learning End-to-End Goal-Oriented Dialog](https://arxiv.org/abs/1605.07683). Antoine Bordes, Y-Lan Boureau and Jason Weston. ***ICLR 2017***. 
 * [Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures](https://www.aclweb.org/anthology/P18-1133/). Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He and Dawei Yin. ***ACL 2018***. 
-* [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278). Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan and Milica Gašić. ***EMNLP 2018***. 
+* [MultiWOZ -- A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://arxiv.org/abs/1810.00278). Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan and Milica Gašić. ***EMNLP 2018***.
+
+
+### Multi-Agent Reinforcement learning
+* [Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition](https://arxiv.org/abs/2004.03809). Ryuichi Takanobu, Runze Liang and Minlie Huang. ***ACL 2020***. [[code]](https://github.com/truthless11/MADPL)
+* [Collaborative Multi-Agent Dialogue Model Training Via Reinforcement Learning](https://www.aclweb.org/anthology/W19-5912/). Alexandros Papangelis, Yi-Chia Wang, Piero Molino and Gokhan Tur. ***SIGDIAL 2020***. [[code]](https://github.com/uber-research/plato-research-dialogue-system)
+* [Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition](https://www.mdpi.com/2076-3417/10/8/2740). Shuyu Lei, Xiaojie Wang and Caixia Yuan. ***MDPI 2020***. 
+A Survey and Critique of Multiagent Deep Reinforcement Learning

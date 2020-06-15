@@ -79,4 +79,12 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition](https://arxiv.org/abs/2004.03809). Ryuichi Takanobu, Runze Liang and Minlie Huang. ***ACL 2020***. [[code]](https://github.com/truthless11/MADPL)
 * [Collaborative Multi-Agent Dialogue Model Training Via Reinforcement Learning](https://www.aclweb.org/anthology/W19-5912/). Alexandros Papangelis, Yi-Chia Wang, Piero Molino and Gokhan Tur. ***SIGDIAL 2020***. [[code]](https://github.com/uber-research/plato-research-dialogue-system)
 * [Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition](https://www.mdpi.com/2076-3417/10/8/2740). Shuyu Lei, Xiaojie Wang and Caixia Yuan. ***MDPI 2020***. 
-A Survey and Critique of Multiagent Deep Reinforcement Learning
+* [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s10458-019-09421-1). Pablo Hernandez-Leal, Bilal Kartal and Matthew E. Taylor. ***AAMAS 2019***. 
+* [Learning to Collaborate: Multi-Scenario Ranking via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1809.06260). Jun Feng, Heng Li, Minlie Huang, Shichen Liu, Wenwu Ou, Zhirong Wang and Xiaoyan Zhu. ***WWWW 2019***. 
+* [Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://www.aclweb.org/anthology/D17-1321/). Satwik Kottur, José Moura, Stefan Lee and Dhruv Batra. ***EMNLP 2017***. 
+* [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8237583). Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee and Dhruv Batra. ***ICCV 2017***. 
+* [Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies](https://www.aclweb.org/anthology/P14-1047/). Kallirroi Georgila, Claire Nelson and David Traum. ***ACL 2014***. 
+
+
+
+

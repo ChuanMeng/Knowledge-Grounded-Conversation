@@ -17,7 +17,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [A Reference-aware Network for Background Based Conversation](https://arxiv.org/abs/1908.06449). Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
 * [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/abs/1908.09528). Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/PengjieRen/GLKS) 
 * [Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/abs/1912.07491). Jian Wang, Junhao Liu, Wei Bi, Xiaojiang Liu, Kejing He, Ruifeng Xu and Min Yang. ***AAAI 2020***. 
-* Knowledge Graph Grounded Goal Planning for Open-Domain Conversation. ***AAAI 2020***.
+* [Knowledge Graph Grounded Goal Planning for Open-Domain Conversation](https://www.aaai.org/ojs/index.php/AAAI/article/view/6474). Jun Xu, Haifeng Wang, Zhengyu Niu, Hua Wu 
+Wanxiang Che. ***AAAI 2020***.
 * [Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation](https://arxiv.org/abs/2002.01196). Jinghui Qin, Zheng Ye, Jianheng Tang and Xiaodan Liang.  ***AAAI 2020***. 
 * [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). Byeongchang Kim, Jaewoo Ahn and Gunhee Kim. ***ICLR 2020***.  [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
 * [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020***.

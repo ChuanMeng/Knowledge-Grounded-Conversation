@@ -87,8 +87,14 @@ Wanxiang Che. ***AAAI 2020***.
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8237583). Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee and Dhruv Batra. ***ICCV 2017***. 
 * [Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies](https://www.aclweb.org/anthology/P14-1047/). Kallirroi Georgila, Claire Nelson and David Traum. ***ACL 2014***. 
 
-### Multilingual enhanced KGC
+### Multilingual Enhanced KGC
 #### Survey
 * [A Brief Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/1905.05395). RajDabre, Chenhui Chu, Anoop Kunchukuttan. ***arXiv 2020***.
+
+#### 2019
+* [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461). Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu. ***ICLR 2019***
+* [Exploiting Multilingualism through Multistage Fine-Tuning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D19-1146/). Raj Dabre, Atsushi Fujita, Chenhui Chu. ***EMNLP 2019***
+* [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://www.aclweb.org/anthology/P19-1120/). Yunsu Kim, Yingbo Gao, Hermann Ney. ***ACL 2019***
+.
 
 

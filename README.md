@@ -91,6 +91,8 @@ Wanxiang Che. ***AAAI 2020***.
 #### Survey
 * [A Brief Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/1905.05395). RajDabre, Chenhui Chu, Anoop Kunchukuttan. ***arXiv 2020***.
 
+#### 2020
+*[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2002.10348). Xueliang Zhao, Wei Wu, Chongyang Tao, Can Xu, Dongyan Zhao, Rui Yan. ***ICLR 2020***
 #### 2019
 * [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461). Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu. ***ICLR 2019***
 * [Exploiting Multilingualism through Multistage Fine-Tuning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D19-1146/). Raj Dabre, Atsushi Fujita, Chenhui Chu. ***EMNLP 2019***

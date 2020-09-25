@@ -6,6 +6,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
  
 ### 2020
+*[A Compare Aggregate Transformer for Understanding Document-grounded Dialogue]. 
+*[Knowledge-Grounded Chatbot Based on Dual Wasserstein Generative Adversarial Networks with Effective Attention Mechanisms](https://www.mdpi.com/2076-3417/10/9/3335). Sihyung Kim, Oh-Woog Kwon and Harksoo Kim. ***EMNLP 2020***. 
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 * [Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy](https://www.aclweb.org/anthology/2020.acl-main.6/). Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang, Wei Chu. ***ACL 2020***. 
 * [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang and Ruifang Wang. ***WWW 2020***.

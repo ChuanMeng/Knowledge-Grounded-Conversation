@@ -22,7 +22,7 @@ Wanxiang Che. ***AAAI 2020***.
 * [Dynamic Knowledge Routing Network For Target-Guided Open-Domain Conversation](https://arxiv.org/abs/2002.01196). Jinghui Qin, Zheng Ye, Jianheng Tang and Xiaodan Liang.  ***AAAI 2020***. 
 * [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). Byeongchang Kim, Jaewoo Ahn and Gunhee Kim. ***ICLR 2020***.  [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
 * [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020***.
-* [A Compare Aggregate Transformer for Understanding Document-grounded Dialogue](). 
+* [A Compare Aggregate Transformer for Understanding Document-grounded Dialogue](). ***Findings of ACL: EMNLP 2020***.
 * [Knowledge-Grounded Chatbot Based on Dual Wasserstein Generative Adversarial Networks with Effective Attention Mechanisms](https://www.mdpi.com/2076-3417/10/9/3335). Sihyung Kim, Oh-Woog Kwon and Harksoo Kim. ***EMNLP 2020***.  
 
 ### 2019

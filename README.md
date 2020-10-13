@@ -4,8 +4,22 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### Survey
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
- 
+
 ### 2020 
+
+
+
+- [Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation](https://arxiv.org/pdf/2009.09378). Chujie Zheng, Yunbo Cao, Daxin Jiang, Minlie Huang. **EMNLP2020Findings**
+- Exploiting Text Matching Techniques for Knowledge-Grounded Conversation, IEEE Access 2020
+- BART for Knowledge Grounded Conversations, KDD2020workshop
+- Knowledge-Grounded Chatbot Based on Dual Wasserstein Generative Adversarial Networks with Effective Attention Mechanisms, Appl. Sci.2020
+- Conversations with Search Engines, Arxiv2020
+- On Incorporating Structural Information to improve Dialogue Response Generation, NLP4CONVAI2020
+- A Knowledge Driven Dialogue Model With Reinforcement Learning, IEEE Access 2020
+- A Bichannel Transformer with Context Encoding for Document-Driven Conversation Generation in Social Media, Hindawi 2020
+
+
+
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 * [Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy](https://www.aclweb.org/anthology/2020.acl-main.6/). Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang, Wei Chu. ***ACL 2020***. 
 * [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang and Ruifang Wang. ***WWW 2020***.

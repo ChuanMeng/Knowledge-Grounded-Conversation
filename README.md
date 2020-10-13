@@ -7,18 +7,17 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### 2020 
 
-
+- *Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation.* Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou. **EMNLP2020**
+- *AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue.* Jaehun Jung, Bokyung Son and Sungwon Lyu. **EMNLP2020**
+- *Knowledge-Grounded Dialogue Generation with Pre-trained Language Models.* Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan. **EMNLP2020**
+- *KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation.* Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang. **EMNLP2020**
+- *Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding.* Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley. **EMNLP2020**
 
 - [Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation](https://arxiv.org/pdf/2009.09378). Chujie Zheng, Yunbo Cao, Daxin Jiang, Minlie Huang. **EMNLP2020Findings**
-- Exploiting Text Matching Techniques for Knowledge-Grounded Conversation, IEEE Access 2020
-- BART for Knowledge Grounded Conversations, KDD2020workshop
-- Knowledge-Grounded Chatbot Based on Dual Wasserstein Generative Adversarial Networks with Effective Attention Mechanisms, Appl. Sci.2020
-- Conversations with Search Engines, Arxiv2020
-- On Incorporating Structural Information to improve Dialogue Response Generation, NLP4CONVAI2020
+- [Exploiting Text Matching Techniques for Knowledge-Grounded Conversation](https://ieeexplore.ieee.org/iel7/6287639/8948470/09136717.pdf). Yeonchan Ahn, Sanggoo Lee, Jaehui Park. **IEEE Access 2020**
+- [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf). M. D. Bruyn, E. Lotfi, Jeska Buhmann, W. Daelemans. **KDD2020workshop**
+- [On Incorporating Structural Information to improve Dialogue Response Generation](https://arxiv.org/pdf/2005.14315). Nikita Moghe, Priyesh Vijayan, B. Ravindran, Mitesh M. Khapra. **NLP4CONVAI2020**
 - A Knowledge Driven Dialogue Model With Reinforcement Learning, IEEE Access 2020
-- A Bichannel Transformer with Context Encoding for Document-Driven Conversation Generation in Social Media, Hindawi 2020
-
-
 
 * [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 * [Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy](https://www.aclweb.org/anthology/2020.acl-main.6/). Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang, Wei Chu. ***ACL 2020***. 

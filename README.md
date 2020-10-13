@@ -9,10 +9,11 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 - [KETG: A Knowledge Enhanced Text Generation Framework](https://openreview.net/pdf?id=xPw-dr5t1RH). Anonymous. **ICLR2021 under review**
 - [Improving Abstractive Dialogue Summarization with Conversational Structure and Factual Knowledge](https://openreview.net/pdf?id=uFk038O5wZ). Anonymous. **ICLR2021 under review**
-- [K-Plug: Knowledge-Injected Pre-Trained Language Model For Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. **ICLR2021 under review**
+- [K-Plug: Knowledge-Injected Pre-trained Language Model for Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. **ICLR2021 under review**
 - [Knowledge Grounded Pre-Trained Model For Dialogue Response Generation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207054). Yanmeng Wang, Wenge Rong, Jianfei Zhang, Yuanxin Ouyang, Zhang Xiong. **IJCNN2020**
 - [Policy-Driven Neural Response Generation for Knowledge-Grounded Dialogue Systems](https://arxiv.org/pdf/2005.12529). Behnam Hedayatnia, Seokhwan Kim, Yang Liu, Karthik Gopalakrishnan, M. Eric, D. Hakkani-Tur. **Arxiv**
 - [Unsupervised Injection of Knowledge into Dialogue Generation via Language Models](https://arxiv.org/pdf/2004.14614). Yi-Lin Tuan, Wei Wei, William Yang Wang. **Arxiv**
+- [TopicKA: Generating Commonsense Knowledge-Aware Dialogue Responses Towards the Recommended Topic Fact](https://www.ijcai.org/Proceedings/2020/0521.pdf). Sixing Wu, Ying Li, D. Zhang, Y. Zhou, Zhonghai Wu. **IJCAI2020**
 
 - Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou. **EMNLP2020**
 - AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue. Jaehun Jung, Bokyung Son and Sungwon Lyu. **EMNLP2020**

@@ -1,8 +1,10 @@
 # Knowldege Grounded Conversation (KGC) Paper Reading
 We will keep adding papers and improving the list. Any suggestions are welcome!
 
-
 ### Survey
+
+- [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Huai-zhong Ji, Meng Jiang. **ACM Comput. Surv.**
+
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
 
 ### 2020 

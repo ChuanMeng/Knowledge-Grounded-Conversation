@@ -108,7 +108,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8237583). Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee and Dhruv Batra. ***ICCV 2017***. 
 * [Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies](https://www.aclweb.org/anthology/P14-1047/). Kallirroi Georgila, Claire Nelson and David Traum. ***ACL 2014***. 
 
-### Multilingual Enhanced KGC
+### Multilingual-based method 
 #### Survey
 * [A Brief Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/1905.05395). RajDabre, Chenhui Chu, Anoop Kunchukuttan. ***arXiv 2020***.
 

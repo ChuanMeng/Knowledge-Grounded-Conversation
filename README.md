@@ -9,23 +9,25 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### 2020 
 
-- [KETG: A Knowledge Enhanced Text Generation Framework](https://openreview.net/pdf?id=xPw-dr5t1RH). Anonymous. **ICLR 2021 under review**
-- [Improving Abstractive Dialogue Summarization with Conversational Structure and Factual Knowledge](https://openreview.net/pdf?id=uFk038O5wZ). Anonymous. **ICLR 2021 under review**
-- [K-Plug: Knowledge-Injected Pre-trained Language Model for Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. **ICLR 2021 under review**
-- [Knowledge Grounded Pre-Trained Model For Dialogue Response Generation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207054). Yanmeng Wang, Wenge Rong, Jianfei Zhang, Yuanxin Ouyang, Zhang Xiong. **IJCNN 2020**
-- [Policy-Driven Neural Response Generation for Knowledge-Grounded Dialogue Systems](https://arxiv.org/pdf/2005.12529). Behnam Hedayatnia, Seokhwan Kim, Yang Liu, Karthik Gopalakrishnan, M. Eric, D. Hakkani-Tur. **Arxiv 2020**
-- [Unsupervised Injection of Knowledge into Dialogue Generation via Language Models](https://arxiv.org/pdf/2004.14614). Yi-Lin Tuan, Wei Wei, William Yang Wang. **Arxiv 2020**
-- [TopicKA: Generating Commonsense Knowledge-Aware Dialogue Responses Towards the Recommended Topic Fact](https://www.ijcai.org/Proceedings/2020/0521.pdf). Sixing Wu, Ying Li, D. Zhang, Y. Zhou, Zhonghai Wu. **IJCAI 2020**
-- Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou. **EMNLP 2020**
-- AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue. Jaehun Jung, Bokyung Son and Sungwon Lyu. **EMNLP 2020**
-- Knowledge-Grounded Dialogue Generation with Pre-trained Language Models. Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan. **EMNLP 2020**
-- KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation. Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang. **EMNLP 2020**
-- Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley. **EMNLP 2020**
-- [Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation](https://arxiv.org/pdf/2009.09378). Chujie Zheng, Yunbo Cao, Daxin Jiang, Minlie Huang. **EMNLP 2020 Findings**
-- [Exploiting Text Matching Techniques for Knowledge-Grounded Conversation](https://ieeexplore.ieee.org/iel7/6287639/8948470/09136717.pdf). Yeonchan Ahn, Sanggoo Lee, Jaehui Park. **IEEE Access 2020**
-- [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf). M. D. Bruyn, E. Lotfi, Jeska Buhmann, W. Daelemans. **KDD 2020 workshop**
-- [On Incorporating Structural Information to improve Dialogue Response Generation](https://arxiv.org/pdf/2005.14315). Nikita Moghe, Priyesh Vijayan, B. Ravindran, Mitesh M. Khapra. **NLP4CONVAI 2020**
-- A Knowledge Driven Dialogue Model With Reinforcement Learning, IEEE Access 2020
+- [KETG: A Knowledge Enhanced Text Generation Framework](https://openreview.net/pdf?id=xPw-dr5t1RH). Anonymous. ***ICLR 2021 under review***.
+- [Improving Abstractive Dialogue Summarization with Conversational Structure and Factual Knowledge](https://openreview.net/pdf?id=uFk038O5wZ). Anonymous. ***ICLR 2021 under review***.
+- [K-Plug: Knowledge-Injected Pre-trained Language Model for Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. ***ICLR 2021 under review***.
+- [Knowledge Grounded Pre-Trained Model For Dialogue Response Generation](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9207054). Yanmeng Wang, Wenge Rong, Jianfei Zhang, Yuanxin Ouyang, Zhang Xiong. ***IJCNN 2020***.
+- [Policy-Driven Neural Response Generation for Knowledge-Grounded Dialogue Systems](https://arxiv.org/pdf/2005.12529). Behnam Hedayatnia, Seokhwan Kim, Yang Liu, Karthik Gopalakrishnan, M. Eric, D. Hakkani-Tur. ***Arxiv 2020***.
+- [Unsupervised Injection of Knowledge into Dialogue Generation via Language Models](https://arxiv.org/pdf/2004.14614). Yi-Lin Tuan, Wei Wei, William Yang Wang. ***Arxiv 2020***.
+- [TopicKA: Generating Commonsense Knowledge-Aware Dialogue Responses Towards the Recommended Topic Fact](https://www.ijcai.org/Proceedings/2020/0521.pdf). Sixing Wu, Ying Li, D. Zhang, Y. Zhou, Zhonghai Wu. ***IJCAI 2020***.
+- [Learning to Detect Relevant Contexts and Knowledge forResponse Selection in Retrieval-based Dialogue Systems](https://dl.acm.org/doi/pdf/10.1145/3340531.3411967). Kai Hua, Zhiyuan Feng, Chongyang Tao, Rui Yan, Lu Zhang. ***CIKM 2020***.
+- [Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation](https://www.aclweb.org/anthology/2020.emnlp-main.275.pdf). Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou. ***EMNLP 2020***.
+- [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue](https://www.aclweb.org/anthology/2020.emnlp-main.280.pdf). Jaehun Jung, Bokyung Son and Sungwon Lyu. ***EMNLP 2020***.
+- [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.272.pdf). Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan. ***EMNLP 2020***.
+- [KGLM: Pretrained Knowledge-Grounded Language Model for Data-to-Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.697.pdf). Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang. ***EMNLP 2020***. [[code]](https://github.com/wenhuchen/KGPT)
+- [Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding](https://www.aclweb.org/anthology/2020.emnlp-main.653.pdf). Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley. ***EMNLP 2020***. [[data]](https://www.kaggle.com/shuyangli94/interview-npr-media-dialog-transcripts) [[code]](https://github.com/MEDIA-DIALOG/interview-media-analysis)
+- [Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation](https://arxiv.org/pdf/2009.09378). Chujie Zheng, Yunbo Cao, Daxin Jiang, Minlie Huang. ***Findings of ACL: EMNLP 2020***.
+- [Approximation of Response Knowledge Retrieval in Knowledge-grounded Dialogue Generation](https://www.aclweb.org/anthology/2020.findings-emnlp.321.pdf). Wen Zheng, Natasa Milic-Frayling, Ke Zhou. ***Findings of ACL: EMNLP 2020***. [[code]](https://github.com/tonywenuon/emnlp2020_tppa)
+- [Exploiting Text Matching Techniques for Knowledge-Grounded Conversation](https://ieeexplore.ieee.org/iel7/6287639/8948470/09136717.pdf). Yeonchan Ahn, Sanggoo Lee, Jaehui Park. ***IEEE Access 2020***.
+- [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf). M. D. Bruyn, E. Lotfi, Jeska Buhmann, W. Daelemans. ***KDD 2020 workshop***.
+- [On Incorporating Structural Information to improve Dialogue Response Generation](https://arxiv.org/pdf/2005.14315). Nikita Moghe, Priyesh Vijayan, B. Ravindran, Mitesh M. Khapra. ***NLP4CONVAI 2020***.
+- [A Knowledge Driven Dialogue Model With Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091129). Yongnan Jia, Gaochen Min, Cong Xu, Xisheng Li, Dezheng Zhang. ***IEEE Access 2020***.
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 - [Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy](https://www.aclweb.org/anthology/2020.acl-main.6/). Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang, Wei Chu. ***ACL 2020***. 
 - [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang and Ruifang Wang. ***WWW 2020***.
@@ -43,6 +45,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 - [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510?context=cs.CL). Byeongchang Kim, Jaewoo Ahn and Gunhee Kim. ***ICLR 2020***.  [[code]](https://github.com/bckim92/sequential-knowledge-transformer)
 - [Towards information-rich, logical text generation with knowledge-enhanced neural models](https://arxiv.org/abs/2003.00814). Hao Wang, Bin Guo, Wei Wu and Zhiwen Yu. ***ArXiv 2020***.
 - [A Compare Aggregate Transformer for Understanding Document-grounded Dialogue](https://arxiv.org/abs/2010.00190). Longxuan Ma, Weinan Zhang, Runxin Sun, Ting Liu. ***Findings of ACL: EMNLP 2020***.
+-  [Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues](https://www.aclweb.org/anthology/2020.findings-emnlp.126.pdf). Sixing Wu, Ying Li, Dawei Zhang, Zhonghai Wu. ***Findings of ACL: EMNLP 2020***.
 - [Knowledge-Grounded Chatbot Based on Dual Wasserstein Generative Adversarial Networks with Effective Attention Mechanisms](https://www.mdpi.com/2076-3417/10/9/3335). Sihyung Kim, Oh-Woog Kwon and Harksoo Kim. ***Applied Science 2020***.  
 
 ### 2019

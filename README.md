@@ -8,7 +8,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
 
 ### 2020 
-
+- [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
+- [A Reference-aware Network for Background Based Conversation](https://aaai.org/ojs/index.php/AAAI/article/view/6370). Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
 - [KETG: A Knowledge Enhanced Text Generation Framework](https://openreview.net/pdf?id=xPw-dr5t1RH). Anonymous. ***ICLR 2021 under review***.
 - [Improving Abstractive Dialogue Summarization with Conversational Structure and Factual Knowledge](https://openreview.net/pdf?id=uFk038O5wZ). Anonymous. ***ICLR 2021 under review***.
 - [K-Plug: Knowledge-Injected Pre-trained Language Model for Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. ***ICLR 2021 under review***.
@@ -28,7 +29,6 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 - [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf). M. D. Bruyn, E. Lotfi, Jeska Buhmann, W. Daelemans. ***KDD 2020 workshop***.
 - [On Incorporating Structural Information to improve Dialogue Response Generation](https://arxiv.org/pdf/2005.14315). Nikita Moghe, Priyesh Vijayan, B. Ravindran, Mitesh M. Khapra. ***NLP4CONVAI 2020***.
 - [A Knowledge Driven Dialogue Model With Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9091129). Yongnan Jia, Gaochen Min, Cong Xu, Xisheng Li, Dezheng Zhang. ***IEEE Access 2020***.
-- [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 - [Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy](https://www.aclweb.org/anthology/2020.acl-main.6/). Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang, Wei Chu. ***ACL 2020***. 
 - [Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation](https://dl.acm.org/doi/abs/10.1145/3366423.3380156). Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang and Ruifang Wang. ***WWW 2020***.
 - [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://arxiv.org/abs/1911.02707). Houyu Zhang, Zhenghao Liu, Chenyan Xiong and Zhiyuan Liu. ***ACL 2020***.
@@ -36,7 +36,6 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 - [Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation](https://www.aclweb.org/anthology/2020.acl-main.166/). Jun Xu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu. ***ACL 2020***. 
 - [KdConv:A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation](https://arxiv.org/abs/2004.04100). Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huangy and Xiaoyan Zhu. ***ACL 2020***.  [[data]](https://github.com/thu-coai/KdConv) 
 - [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://arxiv.org/abs/2005.06128). Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu and Nevin L. Zhang. ***ACL 2020***.  
-- [A Reference-aware Network for Background Based Conversation](https://aaai.org/ojs/index.php/AAAI/article/view/6370). Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
 - [Thinking Globally, Acting Locally: Distantly Supervised Global-to-Local Knowledge Selection for Background Based Conversation](https://arxiv.org/abs/1908.09528). Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/PengjieRen/GLKS) 
 - [Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/abs/1912.07491). Jian Wang, Junhao Liu, Wei Bi, Xiaojiang Liu, Kejing He, Ruifeng Xu and Min Yang. ***AAAI 2020***. 
 - [Knowledge Graph Grounded Goal Planning for Open-Domain Conversation](https://www.aaai.org/ojs/index.php/AAAI/article/view/6474). Jun Xu, Haifeng Wang, Zhengyu Niu, Hua Wu 

@@ -2,10 +2,13 @@
 We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### Survey
-
 - [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. **ACM Comput. Surv.**
 
 * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
+
+### 2021
+- [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
+- [Conversations Powered by Cross-Lingual Knowledge](). Chuan Meng(co-first author), Weiwei Sun, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
 
 ### 2020 
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)

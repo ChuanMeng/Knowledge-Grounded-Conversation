@@ -8,7 +8,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### 2021
 - [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
-- [Conversations Powered by Cross-Lingual Knowledge](). Chuan Meng(co-first author), Weiwei Sun, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
+- [Conversations Powered by Cross-Lingual Knowledge](). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
 
 ### 2020 
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)

@@ -8,7 +8,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### 2021
 - [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
-- [Conversations Powered by Cross-Lingual Knowledge](). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
+- [Conversations Powered by Cross-Lingual Knowledge](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/sun-2021-conversations.pdf). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
 
 ### 2020 
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
@@ -112,18 +112,4 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://www.aclweb.org/anthology/D17-1321/). Satwik Kottur, José Moura, Stefan Lee and Dhruv Batra. ***EMNLP 2017***. 
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8237583). Abhishek Das, Satwik Kottur, José M. F. Moura, Stefan Lee and Dhruv Batra. ***ICCV 2017***. 
 * [Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies](https://www.aclweb.org/anthology/P14-1047/). Kallirroi Georgila, Claire Nelson and David Traum. ***ACL 2014***. 
-
-### Multilingual-based method 
-#### Survey
-* [A Brief Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/1905.05395). RajDabre, Chenhui Chu, Anoop Kunchukuttan. ***arXiv 2020***.
-
-#### 2020
-* [Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/abs/2002.10348). Xueliang Zhao, Wei Wu, Chongyang Tao, Can Xu, Dongyan Zhao, Rui Yan. ***ICLR 2020***
-
-#### 2019
-* [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461). Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu. ***ICLR 2019***
-* [Exploiting Multilingualism through Multistage Fine-Tuning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D19-1146/). Raj Dabre, Atsushi Fujita, Chenhui Chu. ***EMNLP 2019***
-* [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://www.aclweb.org/anthology/P19-1120/). Yunsu Kim, Yingbo Gao, Hermann Ney. ***ACL 2019***
-.
-
 

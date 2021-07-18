@@ -3,12 +3,13 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### Survey
 - [A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf). Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, Meng Jiang. **ACM Comput. Surv.**
-
-* [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
+- * [A Survey of Document Grounded Dialogue Systems (DGDS)](https://arxiv.org/abs/2004.13818?context=stat). Longxuan Ma, Wei-Nan Zhang, Mingda Li and Ting Liu. ***ArXiv 2020***.
 
 ### 2021
-- [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
-- [Conversations Powered by Cross-Lingual Knowledge](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/sun-2021-conversations.pdf). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
+- [Conversations Powered by Cross-Lingual Knowledge](https://dl.acm.org/doi/10.1145/3404835.3462883). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***. [[code]](https://github.com/sunnweiwei/ckgc)
+- [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](https://dl.acm.org/doi/10.1145/3404835.3462824). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
+- [Adapting to Context-Aware Knowledge in Natural Conversation for Multi-Turn Response Selection](https://dl.acm.org/doi/10.1145/3442381.3449902). Chen Zhang, Hao Wang, Feijun Jiang, and Hongzhi Yin. ***WWW 2021***.
+- [Human-like informative conversations: Better acknowledgements using conditional mutual information](https://arxiv.org/abs/2104.07831). Ashwin Paranjape and Christopher D. Manning. ***NAACL 2021***.
 
 ### 2020 
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)

@@ -7,6 +7,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 ### 2021
 - [Conversations Powered by Cross-Lingual Knowledge](https://dl.acm.org/doi/10.1145/3404835.3462883). Weiwei Sun, Chuan Meng, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke. ***SIGIR 2021***.
+- [Unsupervised Knowledge Selection for Dialogue Generation](https://aclanthology.org/2021.findings-acl.105.pdf). Xiuyi Chen, Feilong Chen, Fandong Meng, Peng Li and Jie Zhou. ***Findings of ACL: ACL-IJCNLP 2021***.
 - [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](https://dl.acm.org/doi/10.1145/3404835.3462824). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
 - [Adapting to Context-Aware Knowledge in Natural Conversation for Multi-Turn Response Selection](https://dl.acm.org/doi/10.1145/3442381.3449902). Chen Zhang, Hao Wang, Feijun Jiang, and Hongzhi Yin. ***WWW 2021***.
 - [Human-like informative conversations: Better acknowledgements using conditional mutual information](https://arxiv.org/abs/2104.07831). Ashwin Paranjape and Christopher D. Manning. ***NAACL 2021***.

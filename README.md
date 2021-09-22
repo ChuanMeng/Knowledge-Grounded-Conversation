@@ -10,6 +10,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 - [Unsupervised Knowledge Selection for Dialogue Generation](https://aclanthology.org/2021.findings-acl.105.pdf). Xiuyi Chen, Feilong Chen, Fandong Meng, Peng Li and Jie Zhou. ***Findings of ACL: ACL-IJCNLP 2021***.
 - [Retrieval-Free Knowledge-Grounded Dialogue Response Generation with Adapters](https://arxiv.org/abs/2105.06232). Yan Xu, Etsuko Ishii, Samuel Cahyawijaya, Zihan Liu, Genta Indra Winata, Andrea Madotto, Dan Su, and Pascale Fung. ***arXiv:2105.06232***.
 - [Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations](https://dl.acm.org/doi/10.1145/3404835.3462824). Chuan Meng, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. ***SIGIR 2021***.
+- [Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network](https://www.ijcai.org/proceedings/2021/0546.pdf). Sixing Wu, Minghui Wang, Dawei Zhang, Yang Zhou, Ying Li, Zhonghai Wu. ***IJCAI 2021***.
 - [Adapting to Context-Aware Knowledge in Natural Conversation for Multi-Turn Response Selection](https://dl.acm.org/doi/10.1145/3442381.3449902). Chen Zhang, Hao Wang, Feijun Jiang, and Hongzhi Yin. ***WWW 2021***.
 - [Human-like informative conversations: Better acknowledgements using conditional mutual information](https://arxiv.org/abs/2104.07831). Ashwin Paranjape and Christopher D. Manning. ***NAACL 2021***.
 

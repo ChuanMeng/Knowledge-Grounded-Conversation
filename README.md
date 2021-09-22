@@ -16,6 +16,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 ### 2020 
 - [DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097). Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. ***SIGIR 2020***. [[code]](https://github.com/ChuanMeng/DukeNet)
 - [A Reference-aware Network for Background Based Conversation](https://aaai.org/ojs/index.php/AAAI/article/view/6370). Chuan Meng, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma and Maarten de Rijke. ***AAAI 2020***. [[code]](https://github.com/ChuanMeng/RefNet)
+- [Zero-Resource Knowledge-Grounded Dialogue Generation](https://proceedings.neurips.cc/paper/2020/file/609c5e5089a9aa967232aba2a4d03114-Paper.pdf). Linxiao Li, Can Xu, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao. ***NeurIPS 2020***.
+- [Low-Resource Knowledge-Grounded Dialogue Generation](https://openreview.net/forum?id=rJeIcTNtvS). Xueliang Zhao, Wei Wu, Chongyang Tao, Can Xu, Dongyan Zhao, Rui Yan. ***ICLR-2020***. 
 - [KETG: A Knowledge Enhanced Text Generation Framework](https://openreview.net/pdf?id=xPw-dr5t1RH). Anonymous. ***ICLR 2021 under review***.
 - [Improving Abstractive Dialogue Summarization with Conversational Structure and Factual Knowledge](https://openreview.net/pdf?id=uFk038O5wZ). Anonymous. ***ICLR 2021 under review***.
 - [K-Plug: Knowledge-Injected Pre-trained Language Model for Natural Language Understanding and Generation](https://openreview.net/pdf?id=5WcLI0e3cAY). Anonymous. ***ICLR 2021 under review***.
